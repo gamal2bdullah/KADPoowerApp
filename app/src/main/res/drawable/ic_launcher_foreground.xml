@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sun circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30
+            A24,24 0 1,1 54,78
+            A24,24 0 1,1 54,30Z" />
+    <!-- Inner amber circle -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M54,38
+            A16,16 0 1,1 54,70
+            A16,16 0 1,1 54,38Z" />
+    <!-- Rays -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,18 L58,26 L54,24 L50,26Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,90 L58,82 L54,84 L50,82Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,54 L26,58 L24,54 L26,50Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M90,54 L82,58 L84,54 L82,50Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,28 L34,34 L32,30 L30,32Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,80 L74,74 L76,78 L78,76Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,28 L74,34 L78,32 L76,30Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,80 L34,74 L30,76 L32,78Z" />
+</vector>
